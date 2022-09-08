@@ -80,6 +80,29 @@ body{
     color: #FFFFFF;
  }
 
+ .item_head{
+   position: relative;
+ }
+.item{
+   position: absolute;
+   width: 178px;
+height: 121px;
+
+background: #BFDEFB;
+ }
+
+ .item--1{
+   top: -121px;
+ }
+
+ .item--2{
+   bottom: -250px;
+ }
+
+ .item--3{
+   right: 0px;
+ }
+
  .one{
    max-width:  707px; ;
    margin: 217px auto;
